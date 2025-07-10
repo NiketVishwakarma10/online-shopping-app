@@ -1,2 +1,6 @@
 # online-shopping-app
-An online furniture shopping app allows users to browse, customize, and purchase furniture from the comfort of their home. It offers a wide selection of products, including sofas, beds, tables, chairs, and decor items, often with options to filter by style, material, size, and price.
+🛋️ Furniture Shopping Made Easy!
+Browse, customize, and buy furniture from home 🏠📱.
+Shop sofas, beds, tables, chairs & decor 🪑🛏️🖼️ with filters for style, material, size & price 🎨💰.
+Enjoy 360° views, AR previews, and secure checkout 🛒🔐.
+Style your space in just a few taps! ✨
